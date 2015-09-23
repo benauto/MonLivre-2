@@ -1,6 +1,3 @@
 Mon Livre
  == Chapitre 1
-  //TODO : Ecrire le chapitre
-coucou
-lol
-Proverbe : " Plus tu bois , moins t'as soif "
+// TODO : Ecrire Le chap 1
